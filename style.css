@@ -1,0 +1,19 @@
+body{
+  background-color: rgb(255, 231, 235);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+
+}
+
+.form-container{
+  display: block;
+  align-self: center;
+  margin-left: 30%;
+}
